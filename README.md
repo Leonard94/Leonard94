@@ -16,8 +16,12 @@ Telegram: [Lnrd94](https://t.me/Lnrd94)
 ![REACT.JS](https://img.shields.io/badge/-REACT-3C287D?style=for-the-badget&logo=html5)
 ![REDUX](https://img.shields.io/badge/-REDUX-3C287D?style=for-the-badget&logo=Redux)
 ![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-3C287D?style=for-the-badget&logo=TypeScript)
+![Figma](https://img.shields.io/badge/-FIGMA-3C287D?style=for-the-badget&logo=Figma)
 
 
 
 #
-Fun fact: 'All problems are within 30 centimeters from the monitor' </br>
+
+
+
+> Fun fact: 'All problems are within 30 centimeters from the monitor' </br>
