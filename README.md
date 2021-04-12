@@ -1,4 +1,4 @@
-#1 Hello there, I'm Vladislav <img src='http://vladkoleda.ru/img/git/git__hello.gif' width='30'>
+# Hello there, I'm Vladislav <img src='http://vladkoleda.ru/img/git/git__hello.gif' width='30'>
 
 
 
