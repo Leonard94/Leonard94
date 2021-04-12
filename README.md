@@ -1,21 +1,23 @@
-### Hello there ![wave](https://user-images.githubusercontent.com/75755393/114404064-0971cd80-9bae-11eb-8a50-4ce899abc853.gif)
-, I'm Vladislav
+#1 Hello there, I'm Vladislav <img src='http://vladkoleda.ru/img/git/git__hello.gif' width='30'>
 
 
 
-Get in touch
+<img src='http://vladkoleda.ru/img/git/git__banner.jpg'>
+
+## Find me around the web 🌎:
+Website: [vladkoleda.ru](http://vladkoleda.ru/) </br>
+E-mail: vladislav.koleda94@yandex.ru </br>
+Telegram: [Lnrd94](https://t.me/Lnrd94)
+
+## Technologies & Tools
+![HTML](https://img.shields.io/badge/-HTML-3C287D?style=for-the-badget&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-3C287D?style=for-the-badget&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-3C287D?style=for-the-badget&logo=JavaScript)
+![REACT.JS](https://img.shields.io/badge/-REACT-3C287D?style=for-the-badget&logo=html5)
+![REDUX](https://img.shields.io/badge/-REDUX-3C287D?style=for-the-badget&logo=Redux)
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-3C287D?style=for-the-badget&logo=TypeScript)
 
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+Fun fact: 'All problems are within 30 centimeters from the monitor' </br>
