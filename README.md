@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello there ![wave](https://user-images.githubusercontent.com/75755393/114404064-0971cd80-9bae-11eb-8a50-4ce899abc853.gif)
+, I'm Vladislav
 
-<!--
-**Leonard94/Leonard94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Get in touch
+
+
+
 
 Here are some ideas to get you started:
 
