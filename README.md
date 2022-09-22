@@ -7,7 +7,7 @@
 ## Find me around the web 🌎:
 Website: [vladkoleda.ru](http://vladkoleda.ru/) </br>
 E-mail: vladislav.koleda94@yandex.ru </br>
-Telegram: [Lnrd94](https://t.me/Lnrd94)
+Telegram: [Koleda_Vladislav](https://t.me/Koleda_Vladislav)
 
 ## Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML-3C287D?style=for-the-badget&logo=html5)
